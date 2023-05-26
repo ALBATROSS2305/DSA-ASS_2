@@ -12,8 +12,8 @@ public class Q3 {
         }
     }
     class Student {
-        private String name;
-        private int mark;
+         String name;
+         int mark;
         
         public Student(String name, int mark) throws MarksOutOfBoundException {
             this.name = name;
